@@ -50,6 +50,13 @@
 4. Download & share the file with Android devices.  
 
 ---
+## ** Output Images**
+<img width="1280" alt="Screenshot 2025-03-20 at 11 00 51 PM" src="https://github.com/user-attachments/assets/c57653ea-621c-4a1a-a89c-bad4f0a99628" />
+
+<img width="1280" alt="Screenshot 2025-03-20 at 11 00 58 PM" src="https://github.com/user-attachments/assets/f295ead1-ab00-480a-aa6f-373c2d8bf32d" />
+
+<img width="1280" alt="Screenshot 2025-03-20 at 11 01 02 PM" src="https://github.com/user-attachments/assets/3707f86d-d802-4b5e-b361-271ad3ecffb2" />
+
 
 ## **🔥 What's Coming in Version 2.0?**  
 🚀 **NFC Transfer Support** – Directly share `.vcf` files via **NFC tap**.  
